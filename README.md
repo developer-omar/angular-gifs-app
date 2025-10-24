@@ -3,6 +3,13 @@
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli)
 version 19.2.15.
 
+## Libraries and APIs
+
+This project use the following:
+
+- [TailwindCss 4.1](https://tailwindcss.com/)
+- [Giphy API](https://developers.giphy.com/docs/api#endpoint)
+
 ## Development server
 
 To start a local development server, run:
